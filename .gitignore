@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Streamlit Cache
+.streamlit/
+
+# Audio Files
+response.mp3
+temp_voice.wav
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code Settings
+.vscode/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Log Files
+*.log
